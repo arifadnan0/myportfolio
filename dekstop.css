@@ -1,0 +1,98 @@
+/* For dekstop */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 414.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+/* Navbar design start hare */
+.navbar-logo{
+	text-align:left;
+
+}
+.navbar-heading h2{
+	text-align:right;
+
+}
+.navbar-manue{
+	flex-direction: row;
+	justify-content: flex-end;
+}
+.navbar-manue a{
+	padding:5px 10px;
+	margin:20px 0;
+	background-color: transparent;
+}
+/* Navbar design end hare */
+
+
+/*profile design start hare*/
+
+.profile p{
+	margin:0 auto;
+	color:gray;
+	text-align: center;
+	width:50%;
+	margin-bottom:10px;
+	
+}
+/*profile design end hare*/
+
+/*about me design start hare*/
+
+.aboutme-image{
+	margin-top: 100px;
+}
+.aboutme-image img{
+	width:250px;
+	height: 250px;
+}
+.aboutme-desc p{
+	text-align: left;
+}
+
+/*about me design end hare*/
+
+
+/*professional-experience start hare*/
+
+.professional-experience{
+	padding:1px 5px;
+}
+
+/*professional-experience end hare*/
+
+/*achivement-contact design start hare*/
+
+.achivement{
+padding-left: 50px;
+
+}
+.contact button{
+	
+	width: 150px;
+
+
+}
+
+/*achivement-contact design end hare*/
+
+
+/*footer starts from hare*/
+.footer-manue{
+	margin-top: 12px;
+
+}
+.footer-manue a{
+	display: inline;
+	margin:10px;
+	
+}
+/*footer end hare*/
